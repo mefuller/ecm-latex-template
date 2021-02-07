@@ -38,7 +38,7 @@ packages that must be installed with their dependencies:
 ### Figures and tables aren't displaying as intended?
 
 Standard figure and table floats may not display as desired in the multicol environment.
-Floats may either be made to span the page using the * variants, e.g.
+Floats may be made to span the page using the * variants, e.g.
 ```
 \begin{figure*}
   % figure here (includegraphics or whatever)
